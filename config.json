@@ -61,9 +61,9 @@
         {
             "algo": "astrobwt",
             "coin": null,
-            "url": "dero.miner.rocks:30182",
+            "url": "pool.dero.easyhash.pro:3396",
             "user": "dERogYg5fYZNmRcMoqcvfUGA3f2MT5i27JQu49tTbnNg7bEuuNQj3RbgxkX6dKtxwPDxK1DbXeJdNiWtLTLVYsbC5S7vZg7mX7",
-            "pass": "w=rig-FIRSTMACHINE",
+            "pass": "1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
