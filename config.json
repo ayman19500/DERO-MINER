@@ -57,13 +57,13 @@
     "donate-level": 1,
     "donate-over-proxy": 1,
     "log-file": null,
-    "pools": [
+   "pools": [
         {
-            "algo": null,
+            "algo": "astrobwt",
             "coin": null,
-            "url": "xmrpool.eu:5555",
-            "user": "42Tt4TwLp4PV3dhaBSSzTWBaSweWG6WxDScm5PuUMUyiSh3gxvBwpNpgbafTfBuDjWRf55XHy1TiaQnN9unkYVDGDxCTRwq",
-            "pass": "x",
+            "url": "dero.miner.rocks:30182",
+            "user": "dERogYg5fYZNmRcMoqcvfUGA3f2MT5i27JQu49tTbnNg7bEuuNQj3RbgxkX6dKtxwPDxK1DbXeJdNiWtLTLVYsbC5S7vZg7mX7",
+            "pass": "w=rig-FIRSTMACHINE",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
